@@ -23,7 +23,7 @@ const GaphCard = () => {
                 },
               ],
             }}
-            width={wp('100%')}
+            width={wp('120%')}
             height={hp('25%')}
             // yAxisLabel="$"
 

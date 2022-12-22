@@ -1,10 +1,9 @@
-import {View, Text, StyleSheet, ScrollView} from 'react-native';
+import {View, Text, StyleSheet} from 'react-native';
 import React from 'react';
 import {
   heightPercentageToDP as hp,
   widthPercentageToDP as wp,
 } from 'react-native-responsive-screen';
-import {LineChart} from 'react-native-chart-kit';
 import * as Colors from '../utils/Colors';
 import * as Typography from '../utils/typography';
 import TempratureCard from './TempratureCard';

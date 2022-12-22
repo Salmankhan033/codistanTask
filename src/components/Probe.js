@@ -43,7 +43,6 @@ const Probe = () => {
       />
 
       <FlatList
-        // scrollEnabled={false}
         data={listData}
         renderItem={_item => (
           <DeviceDataCard

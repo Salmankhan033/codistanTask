@@ -1,10 +1,6 @@
 import {View, Text, Image, StyleSheet} from 'react-native';
 import React from 'react';
-import {
-  heightPercentageToDP as hp,
-  widthPercentageToDP as wp,
-} from 'react-native-responsive-screen';
-import {Green} from '../utils/Colors';
+import {widthPercentageToDP as wp} from 'react-native-responsive-screen';
 
 const Header = () => {
   return (
